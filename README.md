@@ -1,6 +1,6 @@
 # Random-Cars-Webservice
 
-Random-Cars-Webservice is a spring-boot and elasticsearch based REST-API web service that allows you to perform CRUD operations by leveraging different HTTP METHODS such as GET/PUT/POST/DELETE etc and explore random cars from various manufacturers. This webservice offers a swagger-ui enabled documentation to better understand all different endpoints available to the consumer. 
+Random-Cars-Webservice is a spring-boot and elasticsearch based REST-API web service that allows you to perform CRUD operations by leveraging different HTTP METHODS such as GET/PUT/POST/DELETE and explore random cars from various manufacturers. This webservice offers an OPEN API based documentation to better understand all different endpoints available to the consumer. 
 
 ## How to run the application
 
@@ -18,7 +18,7 @@ Random-Cars-Webservice is a spring-boot and elasticsearch based REST-API web ser
 
  ## User Stories
 
-- Users can execute various such as GET/POST endpoints to show and add cars to the elasticsearch repository. 
+- Users can show or update different records using various GET/ POST endpoints depicted in the documentation. 
 - Deployment of the application is pretty quick due to all the dependencies packed in a single fat jar file as a spring boot application.  
 
  ## Features
