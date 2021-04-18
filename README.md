@@ -39,5 +39,5 @@ Random-Cars-Webservice is a spring-boot and elasticsearch based REST-API web ser
 
 ## What the app looks like
 
-![screenshot1](https://raw.githubusercontent.com/Damans227/Resume-Generator/main/screenshots/resume-generator.gif)
+![screenshot1](https://raw.githubusercontent.com/Damans227/random-cars-webservice/main/screenshots/random-cars.gif)
 
