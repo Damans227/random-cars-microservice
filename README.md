@@ -7,7 +7,7 @@ Random-Cars-Webservice is a spring-boot and elasticsearch based REST-API web ser
 1. In order to get this application up and running quickly, you will need to have `java` & `docker` run-time installed on your computer. 
 2. Now, run the following docker command:<br />
    a) `docker run -dt -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.9.3`<br />
-3. Clone this repository and go to `Deployment` folder, and run the following command:<br />
+3. Clone this repository. Go to `Deployment` folder, and run the following command:<br />
    a) `java -jar practical-java-2.0.0.jar`<br />
 4. The application should be up and running on the following `URL: http://localhost:8080/swagger-ui.html`
 
