@@ -1,6 +1,6 @@
-# Random-Cars-Webservice
+# Random-Cars-Microservice
 
-Random-Cars-Webservice is a spring-boot and elasticsearch based REST-API web service that allows you to perform CRUD operations by leveraging different HTTP METHODS such as GET/PUT/POST/DELETE and explore random cars from various manufacturers. This webservice offers an OPEN API based documentation to better understand all different endpoints available to the consumer. 
+Random-Cars-Microservice is a spring-boot and elasticsearch based REST-API web service that allows you to perform CRUD operations by leveraging different HTTP METHODS such as GET/PUT/POST/DELETE and explore random cars from various manufacturers. This webservice offers an OPEN API based documentation to better understand all different endpoints available to the consumer. 
 
 ## How to run the application
 
