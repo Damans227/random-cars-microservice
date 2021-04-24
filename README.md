@@ -12,7 +12,7 @@ Random-Cars-Microservice is a spring-boot and elasticsearch based REST-API web s
 4. The application should be up and running on the following `URL: http://localhost:8080/swagger-ui.html`
 
 
- ## How to use Random-Cars-Webservice
+ ## How to use Random-Cars-Microservice
 
 1. Follow the swagger-ui documentation by going to `http://localhost:8080/swagger-ui.html`. 
 
